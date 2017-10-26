@@ -2786,7 +2786,7 @@ video.responsive-video {
           transform: translate3d(0, 0, 0);
   -webkit-transform: translateX(-50%);
           transform: translateX(-50%);
-          background-image: image('starter-template/backchicken.JPG');
+          
 }
 
 .pin-top, .pin-bottom {
